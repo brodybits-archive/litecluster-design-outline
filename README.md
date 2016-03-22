@@ -45,12 +45,18 @@ Proposed change transaction idea:
 
 TBD TODO
 
+## Dynamic updating of client-side applications
+
+TBD TODO
+
 ## Comparison to other data storage libraries and frameworks
 
 TBD TODO
 
-## Other FUTURE TBD ideas
+## FUTURE TBD Other major needs and ideas
 
 - Meteor-like client-server data synchronization
 - Same or similar architecture design among client and cluster server layers
+- Ability to migrate from another data storage system (free, commercial, or custom-built)
+- Ability to migrate to another data storage architecture in the future
 
